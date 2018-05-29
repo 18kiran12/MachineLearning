@@ -2,6 +2,7 @@
 Understanding Machine Learning and optimization concepts. <br />
 This is the main folder where I add all the different concepts as different folders. <br /><br /><br /><br />
 	1. Neural Networks  <br /><br />
+		a. [Neural Networks/NeuralNetworkPython.pdf] - Neural Network complete implementation in numpy<br />
         a. [Neural Networks/neural networks with Tensor Flow - MNIST.ipynb] - Neural Network using TensorFlow<br />
         b. [Neural Networks/Neural Network with Keras - pima-indians.ipynb] - Neural Network with Keras<br />
 	c. [Neural Networks/Convolutional Neural Network/Convolutional Neural Network with Keras.ipynb] - Conv Neural Network with Keras<br />
