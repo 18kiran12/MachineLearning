@@ -1,11 +1,19 @@
 # MachineLearning
-Understanding Machine Learning and optimization concepts. <br />
-This is the main folder where I add all the different concepts as different folders. <br /><br /><br /><br />
-	1. Neural Networks  <br /><br />
-		a. [Neural Networks/NeuralNetworkPython.pdf] - Neural Network complete implementation in numpy<br />
-        a. [Neural Networks/neural networks with Tensor Flow - MNIST.ipynb] - Neural Network using TensorFlow<br />
-        b. [Neural Networks/Neural Network with Keras - pima-indians.ipynb] - Neural Network with Keras<br />
-	c. [Neural Networks/Convolutional Neural Network/Convolutional Neural Network with Keras.ipynb] - Conv Neural Network with Keras<br />
+
+Understanding Machine Learning and optimization concepts. 
+
+This is the main folder where I add all the different concepts as different folders. 
+
+
+1. Neural Networks 
+---
+
+* Neural Network complete implementation in numpy - *[Neural Networks/NeuralNetworkPython.pdf]*
+* Neural Network using TensorFlow - [Neural Networks/neural networks with Tensor Flow - MNIST.ipynb]
+* Neural Network with Keras - [Neural Networks/Neural Network with Keras - pima-indians.ipynb]
+* Conv Neural Network with Keras - [Neural Networks/Convolutional Neural Network/Convolutional Neural Network with Keras.ipynb]
+
+
 	d. [Neural Networks/Convolutional Neural Network/Understanding Convolution 1D, 2D, 3D.ipynb] - How the 1D, 2D, 3D conv networks work and the features they capture<br /><br /><br /><br />
 	2. Perceptron.<br /><br />
 	  The perceptron is an algorithm for learning a binary classifier: a function that maps its input x (a real-valued vector) to an output value f(x) (a single binary value)    <br /><br />
