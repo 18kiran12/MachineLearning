@@ -5,7 +5,7 @@ Understanding Machine Learning and optimization concepts.
 This is the main folder where I add all the different concepts as different folders. 
 
 
-##Neural Networks 
+Neural Networks 
 ---
 
 * Neural Network complete implementation in numpy - [Neural Networks/NeuralNetworkPython.pdf]
@@ -14,7 +14,7 @@ This is the main folder where I add all the different concepts as different fold
 * Conv Neural Network with Keras - [Neural Networks/Convolutional Neural Network/Convolutional Neural Network with Keras.ipynb]
 * How the 1D, 2D, 3D conv networks work - [Neural Networks/Convolutional Neural Network/Understanding Convolution 1D, 2D, 3D.ipynb]
 
-##Perceptron 
+Perceptron 
 ---
 
 The perceptron is an algorithm for learning a binary classifier: 
@@ -26,7 +26,7 @@ Created a simple demonstration of how a perceptron can be used to make classific
 
 
 
-##Recommender Systems 
+Recommender Systems 
 ---
 
 A method to predict the "rating" or "preference" that a user would give to an item based on a few methods.
@@ -35,7 +35,7 @@ Tried to created a quick implementation of the following
 * Matrix Factorization on a subset of Netflix data - [Recommender System/Netflix Matrix factorization.ipynb]
 * Simple Collabrative filtering using cosine similarity - [Recommender System/Recommender systems with cosine similarity function.ipynb]
 
-##Recommender Systems 
+Recommender Systems 
 ---
 
 * Decision Trees - [Decision Trees/decision tree.ipynb]
