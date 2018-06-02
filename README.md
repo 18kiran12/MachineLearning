@@ -14,6 +14,11 @@ Neural Networks
 * Conv Neural Network with Keras - [Neural Networks/Convolutional Neural Network/Convolutional Neural Network with Keras.ipynb]
 * How the 1D, 2D, 3D conv networks work - [Neural Networks/Convolutional Neural Network/Understanding Convolution 1D, 2D, 3D.ipynb]
 
+Time Series Forecasting
+---
+
+* Forecasting time series data using ARIMA , SARIMAX - [Time series forecasting/Time series ARIMA, SARIMAX.ipynb]
+
 Perceptron 
 ---
 
@@ -40,4 +45,4 @@ Recommender Systems
 
 * Decision Trees - [Decision Trees/decision tree.ipynb]
 
-                
+              
