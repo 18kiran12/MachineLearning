@@ -8,7 +8,8 @@ This is the main folder where I add all the different concepts as different fold
 Neural Networks 
 ---
 
-* Neural Network complete implementation in numpy - [Neural Networks/NeuralNetworkPython.pdf]
+* Implementation of Stochastic Grad with and without AdaGrad - [Neural Networks/AdaGrad.ipynb]
+* Neural Network complete detailed implementation in numpy - [Neural Networks/NeuralNetworkPython.ipynb]
 * Neural Network using TensorFlow - [Neural Networks/neural networks with Tensor Flow - MNIST.ipynb]
 * Neural Network with Keras - [Neural Networks/Neural Network with Keras - pima-indians.ipynb]
 * Conv Neural Network with Keras - [Neural Networks/Convolutional Neural Network/Convolutional Neural Network with Keras.ipynb]
